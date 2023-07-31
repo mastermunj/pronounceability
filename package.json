@@ -37,7 +37,7 @@
     "@types/jest": "^29.5.3",
     "@types/node": "^20.4.5",
     "@typescript-eslint/eslint-plugin": "^6.2.0",
-    "@typescript-eslint/parser": "^6.2.0",
+    "@typescript-eslint/parser": "^6.2.1",
     "an-array-of-english-words": "^2.0.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.45.0",
