@@ -1,6 +1,6 @@
 {
   "name": "pronounceability",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Calculate pronounceability for a given word.",
   "keywords": [
     "pronounce",
