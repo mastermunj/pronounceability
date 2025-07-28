@@ -1,3 +1,4 @@
+import { describe, expect, test } from 'vitest';
 import { Pronounceable } from '../src/index';
 
 const pronounceable = new Pronounceable();
